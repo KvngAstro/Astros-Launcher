@@ -1,0 +1,3 @@
+Group = {
+	app_name=Custom Map Setup (CMS)
+}

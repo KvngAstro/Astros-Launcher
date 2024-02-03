@@ -1,12 +1,12 @@
 App = {
 	app_name=Astro's Map Generation (AMG)
 	program_name=AMG
-	locked_icon=Locked Cyan
-	icon=Cyan
+	locked_icon=https://raw.githubusercontent.com/KvngAstro/Astros-Launcher/main/Icons/Locked%20Cyan.png
+	icon=https://raw.githubusercontent.com/KvngAstro/Astros-Launcher/main/Icons/Cyan.png
 }
 App = {
 	app_name=Custom Map Setup (CMS)
 	program_name=CMS
-	locked_icon=Locked Yellow
-	icon=Yellow
+	locked_icon=https://raw.githubusercontent.com/KvngAstro/Astros-Launcher/main/Icons/Locked%20Yellow.png
+	icon=https://raw.githubusercontent.com/KvngAstro/Astros-Launcher/main/Icons/Yellow.png
 }

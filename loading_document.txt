@@ -1,4 +1,12 @@
-Group = {
+App = {
+	app_name=Astro's Map Generation (AMG)
+	program_name=AMG
+	locked_icon=Locked_Logo (Cyan)
+	icon=Logo (Cyan)
+}
+App = {
 	app_name=Custom Map Setup (CMS)
-	Cheers It worked
+	program_name=CMS
+	locked_icon=Locked_Logo (Yellow)
+	icon=Logo (Yellow)
 }

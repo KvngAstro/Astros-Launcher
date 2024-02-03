@@ -1,3 +1,4 @@
 Group = {
 	app_name=Custom Map Setup (CMS)
+	Cheers It worked
 }
